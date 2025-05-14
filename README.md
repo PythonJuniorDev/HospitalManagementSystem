@@ -1,10 +1,10 @@
-# Hospital Management System
+# 🏥 Hospital Management System
 
 A simulation of a hospital management system built in C#, demonstrating object-oriented programming principles such as encapsulation, abstraction, and modular design. The project models core entities in a hospital environment and their interactions in a cohesive structure.
 
 ---
 
-## **Features**
+## 🧩 **Features**
 - **Core Classes**:
   - **Doctor**: Represents a doctor with attributes like name, specialization, and ID.
   - **Patient**: Represents a patient with a name and unique ID, linking appointments.
@@ -22,7 +22,7 @@ A simulation of a hospital management system built in C#, demonstrating object-o
 
 ---
 
-## **How It Works**
+## 💡 **How It Works**
 1. **Entities**:
    - Doctors, Patients, and Treatments are instantiated as objects.
 2. **Appointments**:
@@ -34,12 +34,13 @@ A simulation of a hospital management system built in C#, demonstrating object-o
 
 ---
 
-## **Getting Started**
-### **Prerequisites**
+## 🔧 **Getting Started**
+
+### 📦 **Prerequisites**
 - A C# development environment, such as **Visual Studio**.
 - The **.NET Framework** installed.
 
-### **Running the Program**
+### ▶️ **Running the Program**
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/HospitalManagementSystem.git
