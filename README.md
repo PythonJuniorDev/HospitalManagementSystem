@@ -43,4 +43,5 @@ A simulation of a hospital management system built in C#, demonstrating object-o
 ### ▶️ **Running the Program**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/HospitalManagementSystem.git 
+   git clone https://github.com/PythonJuniorDev/HospitalManagementSystem.git
+   
